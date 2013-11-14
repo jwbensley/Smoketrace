@@ -18,12 +18,12 @@ Who made it:
 
 Why was it Made:  
 
-    A similar concept to the infamous and brilliant SmokePing (http://smokeping.org/),
-    but with traceroute!
+    A similar concept to the infamous and brilliant SmokePing 
+    (http://smokeping.org/), but with traceroute!
     
     Every time I receive a SmokePing alert the first thing I do is run
-    traceroute/mtr/etc  to see where in the path the loss is occuring.
-    If regular traceroutes where being run I would already know this.
+    traceroute/mtr/etc to see where in the path the loss is occuring.
+    If regular traceroutes where being run I could alert on this.
               
 
 What is it used for:
