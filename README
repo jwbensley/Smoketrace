@@ -40,8 +40,8 @@ What is it used for:
 
 Technical details:
 
-    * Written in PHP for Linux (it maybe altered at a later date to support other
-    operating systems, unsure as yet)
-    * Uses MySQL as backend not RRD files (testing will commence on MariaDB soon,
-    unsure of other DB support as yet)
+    * Written in PHP for Linux (it maybe altered at a later date to support
+    other operating systems, unsure as yet)
+    * Uses MySQL as backend not RRD files (testing will commence on MariaDB
+    soon, unsure of other DB support as yet)
     * Still in Alpha no code to show as yet!
