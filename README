@@ -33,9 +33,9 @@ What is it used for:
     
     Future versions could incorporate latency monitoring and MTU monitoring to
     bring this into one tool although I think it's best to keep them seperate.
-    SmokePing could be extended to include other OWMAPs so the two tools'
+    SmokePing could be extended to include other OWAMPs so the two tools'
     become more specialised in their respective fields and should aim to
-    complement each other not conflict.
+    complement each other, not conflict.
 
 
 Technical details:
@@ -44,4 +44,4 @@ Technical details:
     other operating systems, unsure as yet)
     * Uses MySQL as backend not RRD files (testing will commence on MariaDB
     soon, unsure of other DB support as yet)
-    * Still in Alpha no code to show as yet!
+    * Still in Alpha, so no public code realease as yet, expected Q1-2014!
