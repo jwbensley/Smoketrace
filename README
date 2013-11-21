@@ -11,11 +11,6 @@ Description:
     or if the number of hops changes. This is to alert for path changes.
 
 
-Who made it:
-
-    James Bensley <jwbensley@gmail.com>
-
-
 Why was it Made:  
 
     A similar concept to the infamous and brilliant SmokePing 
@@ -45,3 +40,8 @@ Technical details:
     * Uses MySQL as backend not RRD files (testing will commence on MariaDB
     soon, unsure of other DB support as yet)
     * Still in Alpha, so no public code realease as yet, expected Q1-2014!
+
+
+Who made it:
+
+    James Bensley <jwbensley@gmail.com>
