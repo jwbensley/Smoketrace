@@ -39,7 +39,10 @@ Technical details:
     other operating systems, unsure as yet)
     * Uses MySQL as back end not RRD files (testing will commence on MariaDB
     soon, unsure of other DB support as yet)
-    * Still in Alpha, so no public beta code release as yet, Q1-2014!
+    * Still in alpha, so no public beta code release as yet, Q1-2014!
+    * The alpha release looks similar to this, which will hopefully be improved
+    upon in time for the beta release: http://goo.gl/K8NjCo
+    
     
 Development Plan:
 
@@ -62,7 +65,7 @@ Development Plan:
     The final step after routing integration is automatic traceroute destination
     generation (take BGP top hosts or NetFlow top hosts for example and
     automatically use them to populate SmokeTrace with new traceroute targets).
-    At this point SmokeTrace will be considered out of Beta and in version 
+    At this point SmokeTrace will be considered out of beta and in version 
     "1.0 stable".
 
 
