@@ -62,7 +62,8 @@ Development Plan:
     The final step after routing integration is automatic traceroute destination
     generation (take BGP top hosts or NetFlow top hosts for example and
     automatically use them to populate SmokeTrace with new traceroute targets).
-    At this point SmokeTrace will be considered out of Beta and in version "1.0".
+    At this point SmokeTrace will be considered out of Beta and in version 
+    "1.0 stable".
 
 
 Who made it:
