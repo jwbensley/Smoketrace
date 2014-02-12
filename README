@@ -6,9 +6,15 @@ Description:
 
     Traceroute sourced monitoring with graphing and reporting.
     
-    SmokeTrace records the path to a destination (the IP address of the hops
-    along the route to the target host) and alerts if an IP in the path changes
-    or if the number of hops changes. This is to alert for path changes.
+    SmokeTrace records a path and assosicated statistics (IPs,
+    number of hops, delay at each hop etc) to a destination.
+    Criteria is then assigned to this path and alerts are generated
+    for path changes such as hop or delay increases as defined by
+    the alerting criteria.
+    
+    This is not related to the SmokePing plugin Smoketrace (which
+    was removed in SmokePing 2.5.0 as per these release notes
+    http://oss.oetiker.ch/smokeping/doc/smoketrace.en.html).
 
 
 Why was it Made:  
