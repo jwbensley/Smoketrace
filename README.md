@@ -1,3 +1,15 @@
+FINAL UPDATE
+============
+
+The last version of the code is here (still a bit buggy): https://null.53bits.co.uk/uploads/programming/php/smoketrace/smoketrace-2013-11.tar.gz
+
+A read-only version of the last version is here: http://smoketrace.53bits.co.uk/smoketrace/testing/
+
+This project was abandoned due to time commitments. I strongly recommend you write something new using InfluxDB, MySQL is no good for this type of data storage.
+
+
+
+
 SmokeTrace
 ==========
 
